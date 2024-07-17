@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariet</h1>
-<h3 align="center">A Passionate web designer</h3>
+<h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🌱 I’m currently learning **html ,css and java script**
 

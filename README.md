@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Hariet</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+# Hi 👋, I'm Hariet Wambui
 
-- 🌱 I’m currently learning **html ,css and java script**
+### Full Stack Developer & Marketing Professional based in Nairobi, Kenya
 
-- 💬 Ask me about **web design**
+---
 
-- 📫 How to reach me **Harietwambui@outlook.com**
+🚀 I build modern, production-ready web applications and bring a marketing perspective to everything I create — combining technical skill with an eye for design, user experience, and business impact.
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently building full-stack apps with **Next.js, TypeScript & Supabase**
+- 🎯 I blend **web development + marketing** to create digital products that actually convert
+- 🌍 Based in **Nairobi, Kenya** — open to remote work
+- 📬 Reach me at **Harietwambui@outlook.com**
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+Next.js · React · TypeScript · Tailwind CSS · HTML · CSS
+
+**Backend & Database**
+Supabase · PostgreSQL · Node.js
+
+**Tools & Deployment**
+Vercel · Git · GitHub · Figma
+
+**Marketing**
+Digital Marketing · Content Strategy · Brand Development · SEO
+
+---
+
+### 🏗 Featured Project
+
+**[Sterling Real Estate Advisory Website](https://sterlingreit.co.ke)**
+> Full-stack corporate website for a CMA-licensed REIT Manager in Kenya
+
+- Built with **Next.js 14, TypeScript, Tailwind CSS & Supabase**
+- Custom **admin dashboard** with role-based access control
+- Features: property listings, blog/research CMS, investment portal, team management
+- Deployed on **Vercel** with live database and file storage
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariet-kamau-5b987a252)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariet2004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Harietwambui@outlook.com)
+
+---
+
 <p align="left">
-<a href="https://linkedin.com/in/hariet-kamau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariet-kamau" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariet2004&show_icons=true&locale=en&layout=compact" alt="hariet2004" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariet2004&show_icons=true&locale=en&layout=compact" alt="hariet2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hariet2004&show_icons=true&locale=en" alt="hariet2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariet2004&" alt="hariet2004" /></p>
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariet2004&" alt="hariet2004" />
+</p>

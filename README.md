@@ -29,7 +29,7 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 
 ---
 
-### 🏗 Featured Project
+### 🏗 Featured Projects
 
 **[Sterling Real Estate Advisory Website](https://sterlingreit.co.ke)**
 > Full-stack corporate website for a CMA-licensed REIT Manager in Kenya
@@ -38,6 +38,13 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 - Custom **admin dashboard** with role-based access control
 - Features: property listings, blog/research CMS, investment portal, team management
 - Deployed on **Vercel** with live database and file storage
+
+**[ExelGuru](https://exelguru.com)**
+> Professional training platform for Excel and Real Estate Financial Modelling in Nairobi, Kenya
+
+- Serves real estate professionals, investors and finance workers
+- Focused on the Kenyan property and capital markets sector
+- Based in Westlands, Nairobi
 
 ---
 

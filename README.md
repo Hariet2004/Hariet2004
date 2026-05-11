@@ -24,9 +24,6 @@ Supabase · PostgreSQL · Node.js
 **Tools & Deployment**
 Vercel · Git · GitHub · Figma
 
-**AI-Assisted Development**
-Claude Code · GitHub Copilot · v0
-
 **Marketing**
 Digital Marketing · Content Strategy · Brand Development · SEO
 

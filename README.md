@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hariet Wambui
 
-### Full Stack Developer & Marketing Professional based in Nairobi, Kenya
+### Full Stack Developer | Frontend Developer | Marketing Professional based in Nairobi, Kenya
 
 ---
 

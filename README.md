@@ -31,6 +31,15 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 
 ### 🏗 Featured Projects
 
+**[255 Real Estate](https://255realestate.com)**
+> Official corporate website for Tanzania's premier property advisory firm
+
+- Built with **Next.js 15, TypeScript & Tailwind CSS**
+- Multilingual support across **8 languages** (English, Swahili, French, Spanish, Arabic, Russian, Chinese, Turkish) with RTL support for Arabic
+- Features: interactive hero slider, Tanzania investment case with live market data & charts, property listings, research publications, cookie consent and team profiles
+- CBRE Excellerate partnership showcase
+- Deployed on **Vercel** with optimised images and fast page loads
+
 **[Sterling Real Estate Advisory Website](https://sterlingreit.co.ke)**
 > Full-stack corporate website for a CMA-licensed REIT Manager in Kenya
 
@@ -42,9 +51,17 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 **[ExelGuru](https://exelguru.com)**
 > Professional training platform for Excel and Real Estate Financial Modelling in Nairobi, Kenya
 
+- Built with **Next.js, TypeScript & Tailwind CSS**
 - Serves real estate professionals, investors and finance workers
 - Focused on the Kenyan property and capital markets sector
 - Based in Westlands, Nairobi
+
+**ExelGuru — Social Media Management**
+> Managing the brand's digital presence across social platforms
+
+- Platforms: **LinkedIn · Facebook · Instagram**
+- Strategy: organic content creation and scheduling to drive course enrolments
+- Focus: targeting real estate professionals, investors and finance workers in Kenya
 
 ---
 

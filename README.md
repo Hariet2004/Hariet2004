@@ -25,7 +25,7 @@ Supabase · PostgreSQL · Node.js
 Vercel · Git · GitHub · Figma
 
 **Marketing**
-Digital Marketing · Content Strategy · Brand Development · SEO
+Digital Marketing · Content Strategy · Brand Development · SEO · SMM
 
 ---
 
@@ -40,14 +40,6 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 - CBRE Excellerate partnership showcase
 - Deployed on **Vercel** with optimised images and fast page loads
 
-**[Sterling Real Estate Advisory Website](https://sterlingreit.co.ke)**
-> Full-stack corporate website for a CMA-licensed REIT Manager in Kenya
-
-- Built with **Next.js 14, TypeScript, Tailwind CSS & Supabase**
-- Custom **admin dashboard** with role-based access control
-- Features: property listings, blog/research CMS, investment portal, team management
-- Deployed on **Vercel** with live database and file storage
-
 **[ExelGuru](https://exelguru.com)**
 > Professional training platform for Excel and Real Estate Financial Modelling in Nairobi, Kenya
 
@@ -56,12 +48,20 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 - Focused on the Kenyan property and capital markets sector
 - Based in Westlands, Nairobi
 
-**ExelGuru — Social Media Management**
-> Managing the brand's digital presence across social platforms
+**ExelGuru — Marketing & Social Media Management**
+> Managing the brand's digital presence and product marketing
 
-- Platforms: **LinkedIn · Facebook · Instagram**
-- Strategy: organic content creation and scheduling to drive course enrolments
+- **SMM:** organic content creation and scheduling across LinkedIn, Facebook & Instagram
+- **Digital Marketing:** promoting ExelGuru courses to drive enrolments among real estate professionals, investors and finance workers in Kenya
 - Focus: targeting real estate professionals, investors and finance workers in Kenya
+
+**[Stread Technology](https://streadtechnology.com)**
+> Full-stack corporate website for a CMA-licensed REIT Manager in Kenya
+
+- Built with **Next.js 14, TypeScript, Tailwind CSS & Supabase**
+- Custom **admin dashboard** with role-based access control
+- Features: property listings, blog/research CMS, investment portal, team management
+- Deployed on **Vercel** with live database and file storage
 
 **GO Invest Rent Ease Finder**
 > Final Year Project — rental property recommendation platform
@@ -69,7 +69,7 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 - A comprehensive platform designed to simplify the housing decision-making process for property seekers
 - Users input personalised parameters such as place of work, security levels, preferred shopping premises (mall or supermarket), and lifestyle preference (urban or semi-urban)
 - Utilises **machine learning algorithms** to recommend the top 3 most suitable rental properties based on user inputs
-- Represents a significant departure from traditional property search platforms by offering intelligent, personalised recommendations
+- Represents a significant departure from traditional property search platforms
 
 ---
 

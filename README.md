@@ -63,6 +63,14 @@ Digital Marketing · Content Strategy · Brand Development · SEO
 - Strategy: organic content creation and scheduling to drive course enrolments
 - Focus: targeting real estate professionals, investors and finance workers in Kenya
 
+**GO Invest Rent Ease Finder**
+> Final Year Project — rental property recommendation platform
+
+- A comprehensive platform designed to simplify the housing decision-making process for property seekers
+- Users input personalised parameters such as place of work, security levels, preferred shopping premises (mall or supermarket), and lifestyle preference (urban or semi-urban)
+- Utilises **machine learning algorithms** to recommend the top 3 most suitable rental properties based on user inputs
+- Represents a significant departure from traditional property search platforms by offering intelligent, personalised recommendations
+
 ---
 
 ### 📫 Connect with Me
